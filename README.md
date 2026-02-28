@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This repository contains a fully automated **protein Molecular Dynamics (MD) simulation pipeline** implemented using **Nextflow** DSL2.
+This repository contains a fully automated **Protein Molecular Dynamics (MD) simulation pipeline** implemented using **Nextflow** DSL2.
 
 The pipeline:
 
@@ -296,4 +296,3 @@ Easily modifiable for HPC environments.
 
 **Koka Nikhila Bhavani** | Bioinformatician
 
-Just tell me 🚀
